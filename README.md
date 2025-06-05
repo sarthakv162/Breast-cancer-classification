@@ -59,8 +59,8 @@ To build a robust deep learning model capable of classifying breast cancer histo
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/sarthakv162/Breast-cancer-classification.git
-   cd Breast-cancer-classification
+   git clone https://github.com/sarthakv162/Breast-cancer-detection.git
+   cd Breast-cancer-detection
    ```
 2. Install dependencies:
 
